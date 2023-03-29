@@ -1,5 +1,5 @@
 import java.util.*;
-public class Notas {
+public class NotasWhile {
     public static void main(String args[]) {
      Scanner b = new Scanner(System.in);
         int i=1,nmat,con1,con;
